@@ -4,7 +4,7 @@ List of demo apps for my [OSCON](https://conferences.oreilly.com/oscon/oscon-or/
 
 ## Presentation
 
-- To come.
+- [Build serverless web and mobile APIs that scale automatically in response to demand](https://www.slideshare.net/DanielKrook/serverless-apis-with-apache-openwhisk)
 
 - Also check out this [Five minute intro to open source serverless development with OpenWhisk](https://medium.com/openwhisk/five-minute-intro-to-open-source-serverless-development-with-openwhisk-328b0ebfa160).
 
