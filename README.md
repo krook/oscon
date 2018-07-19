@@ -1,6 +1,6 @@
 # OSCON 2018
 
-List of demo apps for my [OSCON](https://conferences.oreilly.com/oscon/oscon-or) talk on [Apache OpenWhisk](http://openwhisk.incubator.apache.org/) and [IBM Cloud Functions](https://console.bluemix.net/openwhisk/).
+List of demo apps for my [OSCON](https://conferences.oreilly.com/oscon/oscon-or/public/schedule/detail/67393) talk on [Apache OpenWhisk](http://openwhisk.incubator.apache.org/) and [IBM Cloud Functions](https://console.bluemix.net/openwhisk/).
 
 ## Presentation
 
@@ -29,9 +29,9 @@ List of demo apps for my [OSCON](https://conferences.oreilly.com/oscon/oscon-or)
 ## Other simple apps, working solutions, more complex uses
 
 - [Awesome OpenWhisk](https://github.com/openwhisk/awesome-openwhisk)
-- [IBM Code Patterns](https://developer.ibm.com/code/technologies/serverless/ )
 - [Full list of OpenWhisk samples on GitHub](https://github.com/search?q=topic%3Aopenwhisk+org%3AIBM&type=Repositories)
-- [Work with an IBM developer advocate](https://developer.ibm.com/code/work-with-us)
+- [IBM Code Patterns](https://developer.ibm.com/code/technologies/serverless/)
+- [IBM Cloud Functions workshop](https://www.slideshare.net/DanielKrook/workshop-develop-serverless-applications-with-ibm-cloud-functions)
 
 ## Explore the open source Apache OpenWhisk project
 
