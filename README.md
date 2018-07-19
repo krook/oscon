@@ -11,7 +11,7 @@ List of demo apps for my [OSCON](https://conferences.oreilly.com/oscon/oscon-or/
 ## Using Apache OpenWhisk with IBM Cloud Functions
 
 1. Create a free [IBM Cloud](https://ibm.biz/BdYRNi) account.
-2. Explore the [Cloud Functions](http://bluemix.net/openwhisk) dashboard.
+2. Explore the [IBM Cloud Functions](http://bluemix.net/openwhisk) dashboard.
 3. Download and configure the [`bx wsk` CLI](https://console.bluemix.net/openwhisk/learn/cli?env_id=ibm%3Ayp%3Aus-south).
 
 ## Demo 1: Your first trigger, action, and rule
@@ -40,3 +40,9 @@ List of demo apps for my [OSCON](https://conferences.oreilly.com/oscon/oscon-or/
 - [Slack](http://openwhisk.incubator.apache.org/slack.html)
 - [Twitter](https://twitter.com/openwhisk)
 - [Medium](https://medium.com/openwhisk)
+
+## Other resources I mentioned in the talk
+
+- [Electronic Arts hits the open road with an open cloud architecture](https://developer.ibm.com/opentech/2016/02/11/ea-ibm-docker/)
+- [CNCF Serverless Working Group Whitepaper](https://github.com/cncf/wg-serverless/tree/master/whitepaper)
+- [Serverless check deposit processing with Apache OpenWhisk on IBM Cloud Functions](https://developer.ibm.com/code/patterns/automatically-scale-to-handle-peaks-in-banking-transaction-demand/)
