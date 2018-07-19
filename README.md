@@ -10,7 +10,7 @@ List of demo apps for my [OSCON](https://conferences.oreilly.com/oscon/oscon-or/
 
 ## Using Apache OpenWhisk with IBM Cloud Functions
 
-1. Create a free [IBM Cloud](http://bluemix.net) account.
+1. Create a free [IBM Cloud](https://ibm.biz/BdYRNi) account.
 2. Explore the [Cloud Functions](http://bluemix.net/openwhisk) dashboard.
 3. Download and configure the [`bx wsk` CLI](https://console.bluemix.net/openwhisk/learn/cli?env_id=ibm%3Ayp%3Aus-south).
 
